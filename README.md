@@ -2,4 +2,4 @@
 
 Website is under development! Coming Soon!
 
-This is a website create account system (login & signup) 
+This is a website create account system (login & signup) build with flask webframework.
