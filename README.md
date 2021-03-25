@@ -1,6 +1,6 @@
 # Flask-Signup
 
-Website is under development! Coming Soon!
+Website is under development! Some file uploaded, Coming Soon!
 
 This is a website create account system (login & signup) build with flask webframework.
 
